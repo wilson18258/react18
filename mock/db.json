@@ -1,0 +1,261 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "张三",
+      "age": 20,
+      "email": "zhangsan@test.com"
+    },
+    {
+      "id": "2",
+      "name": "李四",
+      "age": 22,
+      "email": "lisi@test.com"
+    },
+    {
+      "id": "3",
+      "name": "王五",
+      "age": 25,
+      "email": "wangwu@test.com"
+    }
+  ],
+  "login": [
+    {
+      "token": "react-ts-demo-token",
+      "name": "admin",
+      "email": "admin@test.com",
+      "id": "9888"
+    },
+    {
+      "id": "322c",
+      "name": "1111",
+      "email": "1111"
+    },
+    {
+      "id": "8297",
+      "name": "admin",
+      "email": "1121"
+    },
+    {
+      "id": "afcd",
+      "name": "admin",
+      "email": "admin@test.com"
+    },
+    {
+      "id": "17ee",
+      "name": "dadas",
+      "email": "dasdas"
+    },
+    {
+      "id": "fb5d",
+      "name": "qweqwe",
+      "email": "qwewqeqw"
+    },
+    {
+      "id": "4d03",
+      "name": "113",
+      "email": "21312"
+    },
+    {
+      "id": "ac35",
+      "name": "asdas",
+      "email": "asdas"
+    },
+    {
+      "id": "ba4a",
+      "name": "admin",
+      "email": "asdasd"
+    },
+    {
+      "id": "f572",
+      "name": "qqewq",
+      "email": "qweqwewq"
+    },
+    {
+      "id": "735c",
+      "name": "asdasd",
+      "email": "asdasdsa"
+    },
+    {
+      "id": "ff0d",
+      "name": "asdasd",
+      "email": "asdsa"
+    },
+    {
+      "id": "fa7e",
+      "name": "asdasd",
+      "email": "dasasd"
+    },
+    {
+      "id": "cfa5",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "9a66",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "beb0",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "fb2d",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "b72a",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "f4c3",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "5ce2",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "5e97",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "2bf6",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "745d",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "86b8",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "ad8a",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "c1df",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "4752",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "9d78",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "e0ca",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "9a9e",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "459e",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "37c5",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "1164",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "8c57",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "620f",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "222b",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "a496",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "4d23",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "11ae",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "1cd2",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "48dc",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "1fea",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "84fe",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "9b52",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "fbeb",
+      "name": "gsds",
+      "email": "sdfsdf"
+    },
+    {
+      "id": "1189",
+      "name": "asdas",
+      "email": "asdas"
+    },
+    {
+      "id": "b9fd",
+      "name": "sadas",
+      "email": "asdasd"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
