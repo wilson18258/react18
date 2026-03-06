@@ -18,15 +18,17 @@ export default function Login() {
 
   const handleLogin = async () => {
     try {
-      const values = await form.validateFields();
+      //const values = await form.validateFields();
       setLoading(true); // 先设为加载中
       // 低优先级：调用登录接口
       startTransition(async () => {
-        const res = await loginApi(values);
+        // const res = await loginApi(values);
         // 存token到localStorage
-        localStorage.setItem('token', res.token);
+        // localStorage.setItem('token', res.token);
+        localStorage.setItem('token', "password");
         // 存用户信息到store
-        login(res.name, res.token);
+        //  login(res.name, res.token);
+         login("admin", "password");
         navigate('/users');
       });
     } catch (error) {
